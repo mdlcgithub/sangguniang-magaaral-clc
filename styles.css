@@ -1,7 +1,9 @@
 :root {
-    --background-dark: #89a
+    --background-dark: #668;
+    --background: #aab;
+
 }
 
 body {
-    color: var(--background-dark)
+    background-color: var(--background-dark);
 }
